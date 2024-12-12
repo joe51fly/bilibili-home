@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+ol, ul, li {
+    list-style: none;
+}
+
+a {
+    /*文本装饰*/
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    /*光标移入鼠标变成小手的样式*/
+    cursor: pointer;
+}
+
+body {
+    /*background-color: rgb(0, 183, 255);*/
+    font-size: 14px;
+}
+
+input {
+    border: 0 none;
+    outline-style: none;
+}
+img {
+    vertical-align: middle;
+}
